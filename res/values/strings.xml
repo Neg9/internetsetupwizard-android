@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internet Setup Wizard</string>
+    <string name="manual_lookup">Manual Lookup</string>
+    <string name="connect_with_key">Connect with this key</string>
+    <string name="copy_key">Copy this key</string>
+    <string name="key_copied">Copied</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connect_failed">Failed to add network</string>
+    <string name="unsupported_ssid">Unsupported SSID</string>
+    <string name="enabling_wifi">Enabling wifi</string>
+    <string name="enter_network_id">Enter ID</string>
+    <string name="recover_key">Recover Key</string>
+    <string name="recovering_key">Recovering Key...</string>
+</resources>
